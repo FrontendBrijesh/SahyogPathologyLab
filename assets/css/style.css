@@ -923,7 +923,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  text-align: center;
+  text-align: left;
   border: 1px solid rgba(120, 179, 71, .3);
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
